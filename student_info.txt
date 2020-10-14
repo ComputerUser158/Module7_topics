@@ -1,0 +1,8 @@
+Collins Rawley:	23.0	43.0	12.0	21.0	
+MaCarley Morgan:	23.0	42.0	12.0	21.0	32.0	
+Collins Rawley:	23.0	32.0	
+MaCarley Morgan:	
+Collins Rawley:	23.0	
+Yu Jacob:	32.0	23.0	
+MaCarley Morgan:	2.0	
+Douglas Jack:	32.0	45.0	23.0	
