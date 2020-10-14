@@ -12,13 +12,11 @@ def sort_list(newList):
 
 
 def search_list(newList):
-	pass
-	"""userInput = int(input("input what you would like to find in the list: "))
+	userInput = int(input("input what you would like to find in the list: "))
 	if userInput in newList:
 		return newList.index(userInput)
 	else:
 		return -1
-"""
 
 
 def make_list():
