@@ -6,9 +6,8 @@ Program: sort_and_search_list.py
 
 
 def sort_list(newList):
-	pass
-	"""newList.sort()
-	return newList # I returned a list because I needed to print out the list after it was sorted"""
+	newList.sort()
+	return newList # I returned a list because I needed to print out the list after it was sorted
 
 
 def search_list(newList):
